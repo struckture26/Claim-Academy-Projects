@@ -1,1 +1,3 @@
 This is a test document to see if Git / Git Hub is working
+
+now I have added more but have updated it only online. 
